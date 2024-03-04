@@ -8,6 +8,6 @@
 
  The file named Random_Forest uses the random forest model to train and predict.
 
- The file named XGBOOST uses the XGBOOST model to train and predict.
+ The file named Xgboost uses the Xgboost model to train and predict.
 	
 The file named GradientBoostingRegressor uses the GradientBoostingRegressor model to train and predict.
